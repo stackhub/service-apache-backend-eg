@@ -33,7 +33,7 @@ and you will see as a response:
 
 By returning the container hash, you will easily be able to tell which backend
 responded in a multicontainer situation such as using the 
-[`servcie-haproxy`](http://github.com/stackhub-haproxy) 
+[`servcie-haproxy`](http://github.com/stackhub/service-haproxy) 
 for the StackEngine Container Application Center.
 
 # License 
